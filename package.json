@@ -1,5 +1,5 @@
 {
-  "name": "react-d3-axis",
+  "name": "@darthtrevino/react-d3-axis",
   "version": "0.1.2",
   "description": "React-based Axis component for D3",
   "main": "lib/react-d3-axis.js",
@@ -14,7 +14,7 @@
     "prettier": "prettier --write --bracket-spacing=false --single-quote --trailing-comma src/*.js src/**/*.js"
   },
   "peerDependencies": {
-    "react": "^15.0.0"
+    "react": ">= 15.0.0"
   },
   "dependencies": {},
   "devDependencies": {
